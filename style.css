@@ -1,0 +1,28 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p {
+  color: rgb(241, 64, 64);
+}
+
+.note{
+  font-size: 20px;
+}
+
+#id-selector-demo {
+  color:rgb(46, 147, 117)
+}
+
+li[value="4"] {
+  color:rgb(39, 39, 239)
+}
+
+html {
+  text-align: center
+}
+
+/* line 24 we can use asterix instead of html
